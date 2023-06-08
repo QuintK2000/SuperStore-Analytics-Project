@@ -15,5 +15,9 @@ A Dynamic Dashboard is created that provides meaningful insights like sales by s
  3) Power Query Editor(DAX)
 
 
+# Dashboard Created
+![PowerBI_EndtoEnd_page-0001](https://github.com/QuintK2000/Data_Analytics_Project/assets/97881829/9808a928-bcc4-4ab9-948c-eb341bae4ce8)
+
 # Data Model
 ![Screenshot 2023-06-05 201907](https://github.com/QuintK2000/Data_Analytics_Project/assets/97881829/a6c728ee-15c2-4478-b2d9-4a7be80c3acd)
+
