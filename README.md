@@ -16,8 +16,9 @@ A Dynamic Dashboard is created that provides meaningful insights like sales by s
 
 
 # Dashboard Created
-![PowerBI_EndtoEnd_page-0001](https://github.com/QuintK2000/Data_Analytics_Project/assets/97881829/9808a928-bcc4-4ab9-948c-eb341bae4ce8)
+
+![Screenshot 2023-07-15 012826](https://github.com/QuintK2000/SuperStore-Analytics-Project/assets/97881829/b3cdb285-6a62-488b-9604-8eb36d720f40)
+
 
 # Data Model
-![Screenshot 2023-06-05 201907](https://github.com/QuintK2000/Data_Analytics_Project/assets/97881829/a6c728ee-15c2-4478-b2d9-4a7be80c3acd)
-
+![Screenshot 2023-06-08 103259](https://github.com/QuintK2000/SuperStore-Analytics-Project/assets/97881829/b67ca9ae-3d97-415f-9061-d733b54c3f03)
